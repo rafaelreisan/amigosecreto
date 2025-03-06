@@ -1,6 +1,6 @@
 # amigosecreto
 atividade de back end, onde aprendemos a construir uma sorteio de amigo secreto e programar em Java script
-# Amigo Secreto
+ # Amigo Secreto
 
 Este projeto é uma aplicação web simples que permite ao usuário adicionar nomes de amigos e, em seguida, sortear aleatoriamente um "amigo secreto". O aplicativo foi desenvolvido utilizando HTML, CSS e JavaScript.
 
@@ -32,7 +32,7 @@ Caso contrário, baixe os arquivos do projeto.
 
 Abra o Arquivo index.html:
 
-Abra o arquivo index.htmlno seu navegador preferido (por exemplo, Chrome, Firefox ou Edge).
+Abra o arquivo index.html no seu navegador preferido (por exemplo, Chrome, Firefox ou Edge).
 
 Adicione Nomes dos Amigos:
 
