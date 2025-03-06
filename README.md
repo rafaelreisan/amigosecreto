@@ -31,6 +31,7 @@ Este projeto é uma aplicação web simples que permite ao usuário adicionar no
 Caso contrário, baixe os arquivos do projeto.
 
 Abra o Arquivo index.html:
+
 Abra o arquivo index.htmlno seu navegador preferido (por exemplo, Chrome, Firefox ou Edge).
 
 Adicione Nomes dos Amigos:
